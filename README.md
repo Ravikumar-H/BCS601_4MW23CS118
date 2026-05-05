@@ -3,7 +3,7 @@
 
 **Student Name:** Ravikumar
 **USN:** 4MW23CS118
-**Live Application URL:** [https://bcs601-4mw23cs118.el.r.appspot.com]
+**Live Application URL:**https://bcs601-4mw23cs118.el.r.appspot.com/
 
 ## 📖 Introduction
 This project demonstrates the practical implementation of cloud computing concepts by developing a web application that functions as a fully interactive Scientific Calculator. The application utilizes a modern Glassmorphism UI framework on the frontend and a secure Python evaluation engine on the backend. It is deployed using Platform as a Service (PaaS) via Google Cloud App Engine.
